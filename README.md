@@ -31,7 +31,7 @@
 
 - :zap: In my free time, I solve problems on LeetCode and read articles on Medium.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nam-pham-5473a1196/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nam-pham-5473a1196/)
 
 
 <div>
