@@ -25,8 +25,8 @@
 
 ### :man_technologist: About Me :
 - 💼 I was a Web Development Intern at [CodSoft](https://www.codsoft.in/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🏫 I'm currently a Computer Science with double major in Math freshman at [UMass Amherst](https://www.umass.edu/)
+- :telescope: I’m developing an online watch store utilising MERN Stack.
+- 🏫 I'm currently a double-major Computer Science and Mathematics freshman at [UMass Amherst](https://www.umass.edu/)
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on LeetCode and read articles on Medium.
