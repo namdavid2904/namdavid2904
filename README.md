@@ -28,7 +28,7 @@
 - :telescope: I’m developing an online watch store utilising MERN Stack.
 - 🏫 I'm currently a double-major Computer Science and Mathematics freshman at [UMass Amherst](https://www.umass.edu/)
 - :zap: In my free time, I solve problems on LeetCode and read articles on Medium.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nam-pham-5473a1196/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nam-pham-5473a1196/)
 
 
 <div>
