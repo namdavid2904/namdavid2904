@@ -4,3 +4,12 @@
 </div>
 
 ### About me
+- 💼 Previous Web Development Intern at <div href="["CodSoft"](https://www.codsoft.in/)"></div>
+
+📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 50K stars on GitHub
+
+❤️ I love writing TypeScript, and building fun experiments on type-level
+
+💬 Ask me about anything here
+
+
