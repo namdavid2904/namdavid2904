@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=namdavid2904&style=flat-square&color=blue" align="center" alt=""/>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=namdavid2904&style=flat-square&color=blue" alt=""/></div>
 
 ### About me
 - 💼 Previous Web Development Intern at [CodSoft](https://www.codsoft.in/)
