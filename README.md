@@ -23,7 +23,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 - 💼 Previous Web Development Intern at [CodSoft](https://www.codsoft.in/)
 
 📈 
