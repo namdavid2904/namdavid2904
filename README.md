@@ -84,7 +84,7 @@
 
 <a href="https://github.com/namdavid2904/Tic-Tac-Toe">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=Tic-Tac-Toe&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=Tic-Tac-Toe&theme=onedark" /><br />
 </a> 
 <br />
 
