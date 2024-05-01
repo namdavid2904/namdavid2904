@@ -24,9 +24,9 @@
 ---
 
 ### :man_technologist: About Me :
+- 🏫 I am a B.Sc in Computer Science and Mathematics at [UMass Amherst](https://www.umass.edu/). I have a deep interest in the following topics: Software Engineering, Web Development, Artificial Intelligence.
 - 💼 I was a Web Development Intern at [CodSoft](https://www.codsoft.in/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I’m developing an online watch store utilising MERN Stack.
-- 🏫 I'm currently a double-major Computer Science and Mathematics freshman at [UMass Amherst](https://www.umass.edu/)
+- :telescope: I am developing an online watch store utilising MERN Stack.
 - :zap: In my free time, I solve problems on LeetCode and read articles on Medium.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nam-pham-5473a1196/)
 
@@ -45,6 +45,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
