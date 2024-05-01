@@ -4,7 +4,7 @@
 </div>
 
 ### About me
-- 💼 Previous Web Development Intern at "["CodSoft"](https://www.codsoft.in/)"
+- 💼 Previous Web Development Intern at [CodSoft](https://www.codsoft.in/)
 
 📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 50K stars on GitHub
 
