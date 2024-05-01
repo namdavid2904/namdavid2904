@@ -18,7 +18,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=namdavid2904&style=flat-square&color=blue" alt=""/></div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnoyd214amllcG85aW01MTVlZGxpYnFua2NmcGxxd2loZGdhcXpocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
 
 
