@@ -60,7 +60,33 @@
 
 <a href="https://github.com/namdavid2904/Watch-Store">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=Watch-Store&theme=radical" />
-</a>   
+</a>
+
+<a href="https://github.com/namdavid2904/spark-software-engineering-assessment-nam-pham">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=spark-software-engineering-assessment-nam-pham&theme=cobalt" />
+</a>
+
+<a href="https://github.com/namdavid2904/band-site">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=band-site&theme=merko" />
+</a>
+
+<a href="https://github.com/namdavid2904/employee-data-processing">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=employee-data-processing&theme=gruvbox" />
+</a>    
+
+<a href="https://github.com/namdavid2904/Dragon-Repeller">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=Dragon-Repeller&theme=dark" />
+</a>
+
+<a href="https://github.com/namdavid2904/Tic-Tac-Toe">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=Tic-Tac-Toe&theme=onedark" />
+</a> 
+
 
 💬 Ask me about anything here
 
