@@ -21,10 +21,9 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnoyd214amllcG85aW01MTVlZGxpYnFua2NmcGxxd2loZGdhcXpocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
 
+---
 
-
-
-### About me
+### :web_developer: About Me :
 - 💼 Previous Web Development Intern at [CodSoft](https://www.codsoft.in/)
 
 📈 
