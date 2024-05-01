@@ -87,7 +87,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=Tic-Tac-Toe&theme=onedark" />
 </a> 
 
-</space>
+</br>
 💬 Ask me about anything here
 
 
