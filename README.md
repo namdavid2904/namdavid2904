@@ -92,6 +92,6 @@
 </a> 
 <br />
 
-💬 Ask me about anything here
+💬 Ask me about anything here: [here](https://github.com/namdavid2904/namdavid/issues)
 
 
