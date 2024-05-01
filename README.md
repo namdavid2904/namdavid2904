@@ -48,10 +48,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original-wordmark.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdavid2904)](https://github.com/anuraghazra/github-readme-stats)
 
 💬 Ask me about anything here
 
