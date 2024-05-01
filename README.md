@@ -67,6 +67,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=spark-software-engineering-assessment-nam-pham&theme=cobalt" />
 </a>
 
+<a href="https://github.com/namdavid2904/Dragon-Repeller">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=Dragon-Repeller&theme=dark" />
+</a>
+
 <a href="https://github.com/namdavid2904/band-site">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=band-site&theme=merko" />
@@ -76,11 +81,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=employee-data-processing&theme=gruvbox" />
 </a>    
-
-<a href="https://github.com/namdavid2904/Dragon-Repeller">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=Dragon-Repeller&theme=dark" />
-</a>
 
 <a href="https://github.com/namdavid2904/Tic-Tac-Toe">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
