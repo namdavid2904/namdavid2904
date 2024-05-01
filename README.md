@@ -58,7 +58,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdavid2904&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/namdavid2904/Watch-Store.git">
+<a href="https://github.com/namdavid2904/Watch-Store/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=namdavid2904&repo=&theme=radical" />
 </a>   
 
