@@ -25,6 +25,7 @@
 
 ### :man_technologist: About Me :
 - 💼 Previous Web Development Intern at [CodSoft](https://www.codsoft.in/)
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 📈 
 
