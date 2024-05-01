@@ -69,7 +69,7 @@
 
 <a href="https://github.com/namdavid2904/Dragon-Repeller">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.namdavid2904.vercel.app/api/pin/?username=namdavid2904&repo=Dragon-Repeller&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namdavid2904&repo=Dragon-Repeller&theme=dark" />
 </a>
 
 <a href="https://github.com/namdavid2904/band-site">
