@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 - 🏫 I am a B.Sc in Computer Science and Mathematics at [UMass Amherst](https://www.umass.edu/). I have a deep interest in the following topics: Software Engineering, Web Development, Artificial Intelligence.
-- 💼 I was a Web Development Intern at [CodSoft](https://www.codsoft.in/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 💼 I am a Software Engineer Intern at [FPT IS](https://fpt-is.com/) | an incoming Undergraduate Course Assistant in CS 198C: C Programming Language at [UMass Amherst](https://www.umass.edu/) | a previous Web Development Intern at [CodSoft](https://www.codsoft.in/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I am developing an online watch store utilising MERN Stack.
 - :zap: In my free time, I solve problems on LeetCode and read articles on Medium.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nam-pham-5473a1196/)
