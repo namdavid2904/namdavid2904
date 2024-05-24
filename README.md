@@ -89,6 +89,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namdavid2904&repo=band-site&theme=merko" />
 </a>
 
+<a href="https://github.com/namdavid2904/Billionaire-Insights">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namdavid2904&repo=Billionaire-Insights&theme=synthwave" />
+</a>
+
 <a href="https://github.com/namdavid2904/employee-data-processing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namdavid2904&repo=employee-data-processing&theme=gruvbox" />
 </a>    
