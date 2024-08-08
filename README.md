@@ -58,7 +58,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" **alt="Vercel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" title="Netlify" **alt="Netlify" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/replit/replit-original-wordmark.svg" title="Replit" **alt="Replit" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp" title="csharp" **alt="csharp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original-wordmark.svg" title="Stackoverflow" **alt="Stackoverflow" width="40" height="40"/>
 </div>
 
