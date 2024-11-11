@@ -69,7 +69,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdavid2904&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :fireworks: My Projects :
+<!--### :fireworks: My Projects :
 
 <a href="https://github.com/namdavid2904/Watch-Store">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namdavid2904&repo=Watch-Store&theme=radical" />
@@ -102,7 +102,7 @@
 <a href="https://github.com/namdavid2904/Tic-Tac-Toe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=namdavid2904&repo=Tic-Tac-Toe&theme=onedark" /><br />
 </a> 
-<br />
+<br />-->
 
 💬 Ask me about anything here: [here](https://github.com/namdavid2904/namdavid/issues)
 
