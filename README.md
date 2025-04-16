@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-- 🏫 I am a B.Sc in Computer Science and Mathematics at [UMass Amherst](https://www.umass.edu/). I have a deep interest in the following topics: Software Engineering, Web Development, Artificial Intelligence.
+- 🏫 I am a B.Sc in Computer Science and Mathematics at [UMass Amherst](https://www.umass.edu/). I have a deep interest in the following topics: Software Engineering, Data Engineering, Cloud/DevOps, and Machine Learning.
 - 💼 I am a previous Software Engineer Intern at [FPT IS](https://fpt-is.com/) | a current Undergraduate Course Assistant in CS 198C: C Programming at [UMass Amherst](https://www.umass.edu/) | a previous Web Development Intern at [CodSoft](https://www.codsoft.in/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :zap: In my free time, I solve problems on LeetCode and read articles on Medium.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nam-pham-5473a1196/)
