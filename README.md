@@ -27,7 +27,7 @@
 - 🏫 I am a B.Sc in Computer Science and Mathematics at [UMass Amherst](https://www.umass.edu/). I have a deep interest in the following topics: Software Engineering, Data Engineering, Cloud/DevOps, and Machine Learning.
 - 💼 I am a current TA in CS 198C: C Programming at [UMass Amherst](https://www.umass.edu/) | former Software Engineer Intern at [FPT IS](https://fpt-is.com/) and [CodSoft](https://www.codsoft.in/).
 - :zap: In my free time, I play chess, grind LeetCode and read articles on SubStack.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nam-pham-5473a1196/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/namphamphuong)
 
 ---
 
