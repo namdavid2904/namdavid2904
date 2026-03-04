@@ -1,6 +1,6 @@
 # Hi, I'm Nam Pham :wave:
 
-Software Engineering Student Focusing On Full-Stack Software Development Cover Backend And Infrastructure
+I love Backend, Cloud, and Infrastructure.
 
 ## Life
 
