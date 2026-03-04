@@ -6,12 +6,12 @@ Software Engineering Student Focusing On Full-Stack Software Development Cover B
 
 <img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
-- :shipit: Computer Science + Mathematics @ [**University of Massachusetts Amherst**][um]
+- :shipit: CS + Math @ [**University of Massachusetts Amherst**][um]
 - :shipit: Summer Student - AI and Machine Learning @ [**Microsoft**][microsoft]
 - :shipit: Software Engineer Intern @ [**Azenta Life Sciences**][azenta]
 - :shipit: Software Engineer Intern @ [**FPT Software**][fpt]
 - :shipit: Software Engineer Intern @ [**CodSoft**][codsoft]
-- :shipit: Teaching Assistant @ [**Manning College of Computer and Information Sciences at UMass Amherst**][cics]
+- :shipit: Teaching Assistant @ [**UMass Amherst**][cics]
 
 ### Activities & Societies:
 
