@@ -50,14 +50,14 @@ I love Backend, Cloud, and Infrastructure.
 
 ## Github Contribution
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuocong&show_icons=true&locale=en&layout=compact" alt="nampham" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuocong&show_icons=true&locale=en&layout=compact" alt="nampham" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namdavid2904&show_icons=true&locale=en" alt="nampham" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namdavid2904&show_icons=true&locale=en" alt="nampham" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuocong&" alt="nampham" /></p>
 
 <p align="center">
-    <b>Looking for a software engineering intern? Let's connect and talk!</a>
+    <b>Let's connect and talk!</a>
     </b>
 </p>
 <p align="center">
