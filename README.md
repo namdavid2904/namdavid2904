@@ -1,27 +1,25 @@
-# Hi, I'm Nam Pham :wave:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi!+I'm+Nam+Pham!; )](https://git.io/typing-svg)
 
-I love Backend, Cloud, and Infrastructure.
+**Computer Science & Mathematics | Cloud & Machine Learning Enthusiast | Full Stack Developer**
 
-## Life
+I’m a Computer Science and Math student at UMass Amherst (GPA 3.9) who thrives on building systems that are fast, scalable, and make a difference. I’m especially passionate about DevOps automation, distributed systems, and cloud architecture, whether it’s throttling burst traffic with Redis rate limiting or turning robotic logs into real-time insight pipelines. I love building things that work at scale and stay resilient under pressure.
 
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+---
 
-- :shipit: CS + Math @ [**UMass Amherst**][um]
-- :shipit: Summer Student - AI and Machine Learning @ [**Microsoft**][microsoft]
-- :shipit: Software Engineer Intern @ [**Azenta Life Sciences**][azenta]
-- :shipit: Software Engineer Intern @ [**FPT Software**][fpt]
-- :shipit: Software Engineer Intern @ [**CodSoft**][codsoft]
-- :shipit: Teaching Assistant, Developer @ [**UMass Amherst**][cics]
+## 👨‍💻 Professional Experience
+- [**Azenta Life Sciences**][azenta] | Software Engineer Intern (Athena Cloud Services)
+- [**Microsoft**][microsoft] | AI and Machine Learning Summer Program
+- [**FPT Software**][fpt] | Software Engineer Intern (PeopleX Security Platform)
+- [**CodSoft**][codsoft] | Software Engineer Intern (Payments Engineering)
+- [**UMass Amherst**][cics] | Teaching Assistant (Data Structures & Algorithms)
 
-### Activities & Societies:
+## Activities & Societies
 
-🌟 Member - UMass Amherst Association for Computing Machinery (ACM), Public Interest Technology Club (PIT), Machine Learning Club (MassAI), CICSoft, Men's Club Soccer, Chess Club
-
-🏆 Participant - University Hackathons and Coding Competitions (HackUMass, Blue Cloud, ICPC)
-
-📚 Active Member - Computer Science Student Advisory Board
-
-🎯 Contributor - Open Source Software Projects
+- UMass Amherst Association for Computing Machinery (ACM)
+- Machine Learning Club (MassAI)
+- CICSoft
+- Men's Soccer Club
+- Chess Club
 
 [42tm]: https://github.com/42tm
 [fpt]: https://fptsoftware.com/
@@ -29,32 +27,73 @@ I love Backend, Cloud, and Infrastructure.
 [azenta]: https://www.azenta.com/
 [codsoft]: https://www.codsoft.in/
 [cics]: https://www.cics.umass.edu/
-[meta]: https://about.meta.com/
 [microsoft]: https://www.microsoft.com/en-us/
 
-## Skills
+## ⚙️ Technical Skills
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Programming Languages
 
-<h3 align="left">Libraries and Frameworks:</h3>
-<p align="left"><a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 
-<h3 align="left">Databases:</h3>
-<p align="left"> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a><a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra-Dark.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DynamoDB-Dark.svg" alt="cockroachdb" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Libraries / Frameworks
 
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.google.com/aclk?sa=L&ai=DChsSEwj3rKSVx6aPAxUDT0cBHe0JDVMYACICCAEQAhoCcXU&ae=2&aspm=1&co=1&ase=2&gclid=CjwKCAjwk7DFBhBAEiwAeYbJsYiP54-QeVjsKn3qtn7i4wxbW6f0kGKZTclHqgXoBtswRLbLIy8WQBoCcPsQAvD_BwE&cid=CAASJeRoSz_FyiBt4LZnpfI8lc6kKS7NU1OEvjNdlXbxcyD4gXAvVaQ&cce=2&category=acrcp_v1_35&sig=AOD64_2OMvHhl9la3Ko5A__9737GWqT2MQ&q&nis=4&adurl&ved=2ahUKEwjYupyVx6aPAxVsFlkFHWdDDKoQ0Qx6BAgMEAE" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="aws" width="40" height="40"/> </a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.google.com/aclk?sa=L&ai=DChsSEwju47j0yqaPAxVIXkcBHW90Hc0YACICCAEQABoCcXU&co=1&ase=2&gclid=CjwKCAjwk7DFBhBAEiwAeYbJsSild5QzRndQvOOXrj-HyHLRqOVet_poxJwDaDvfNu3YO5c4catZuRoCVP0QAvD_BwE&cid=CAASJeRoCusSdhsXBA_07cZGNaGnvVGQaiLALLImlh8RDbuOrHdcPOo&cce=2&category=acrcp_v1_32&sig=AOD64_3Z1TzVX3StD7lzv0ALIQLm1Haq8w&q&nis=4&adurl&ved=2ahUKEwis7bL0yqaPAxXnKlkFHWlrBCUQ0Qx6BAgUEAE" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" alt="postman" width="40" height="40"/> </a></p>
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)
+![gRPC](https://img.shields.io/badge/-gRPC-244C5A?logo=grpc&logoColor=white&style=flat-square)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
+
+### Cloud / DevOps
+
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff)
+![k6](https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff)
+
+### ML / AI
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=flat-square)
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logo=yolo&logoColor=black&style=flat-square)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square)
+
+### Tools
+
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
 
 ## Github Contribution
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuocong&show_icons=true&locale=en&layout=compact" alt="nampham" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namdavid2904&show_icons=true&locale=en" alt="nampham" /></p>-->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuocong&" alt="nampham" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuocong&" alt="nampham" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namdavid2904&" alt="nampham" /></p>
 
 <p align="center">
     <b>Let's connect and talk!</a>
