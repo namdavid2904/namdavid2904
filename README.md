@@ -13,13 +13,13 @@ I’m a Computer Science and Math student at UMass Amherst (GPA 3.9) who thrives
 - [**CodSoft**][codsoft] | Software Engineer Intern (Payments Engineering)
 - [**UMass Amherst**][cics] | Teaching Assistant (Data Structures & Algorithms)
 
-## Activities & Societies
+<!--## Activities & Societies
 
 - UMass Amherst Association for Computing Machinery (ACM)
 - Machine Learning Club (MassAI)
 - CICSoft
 - Men's Soccer Club
-- Chess Club
+- Chess Club-->
 
 [42tm]: https://github.com/42tm
 [fpt]: https://fptsoftware.com/
