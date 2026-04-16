@@ -29,6 +29,8 @@ I’m a Computer Science and Math student at UMass Amherst (GPA 3.9) who thrives
 [cics]: https://www.cics.umass.edu/
 [microsoft]: https://www.microsoft.com/en-us/
 
+---
+
 ## ⚙️ Technical Skills
 
 ### Programming Languages
@@ -89,6 +91,8 @@ I’m a Computer Science and Math student at UMass Amherst (GPA 3.9) who thrives
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
+
+---
 
 ## Github Contribution
 
