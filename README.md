@@ -7,11 +7,12 @@ I’m a Computer Science and Math student at UMass Amherst (GPA 3.9) who thrives
 ---
 
 ## 👨‍💻 Professional Experience
+- [**Amazon Web Services**][aws] | Software Development Engineer Intern (Elastic File System)
 - [**Azenta Life Sciences**][azenta] | Software Engineer Intern (Athena Cloud Services)
 - [**Microsoft**][microsoft] | AI and Machine Learning Summer Program
 - [**FPT Software**][fpt] | Software Engineer Intern (PeopleX Security Platform)
-- [**CodSoft**][codsoft] | Software Engineer Intern (Payments Engineering)
-- [**UMass Amherst**][cics] | Teaching Assistant (Data Structures & Algorithms)
+- [**CodSoft**][codsoft] | Software Engineer Co-Op (Payments Engineering)
+- [**UMass Amherst**][cics] | Research Assistant (Laboratory for Advanced System Software)
 
 <!--## Activities & Societies
 
@@ -28,6 +29,7 @@ I’m a Computer Science and Math student at UMass Amherst (GPA 3.9) who thrives
 [codsoft]: https://www.codsoft.in/
 [cics]: https://www.cics.umass.edu/
 [microsoft]: https://www.microsoft.com/en-us/
+[aws]: https://aws.amazon.com/
 
 ---
 
