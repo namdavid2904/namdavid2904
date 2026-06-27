@@ -11,7 +11,6 @@ I’m a Computer Science and Math student at UMass Amherst (GPA 3.9) who thrives
 - [**Azenta Life Sciences**][azenta] | Software Engineer Intern (Athena Cloud Services)
 - [**Microsoft**][microsoft] | AI and Machine Learning Summer Program
 - [**FPT Software**][fpt] | Software Engineer Intern (PeopleX Security Platform)
-- [**CodSoft**][codsoft] | Software Engineer Co-Op (Payments Engineering)
 - [**UMass Amherst**][cics] | Research Assistant (Laboratory for Advanced System Software)
 
 <!--## Activities & Societies
